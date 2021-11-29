@@ -7,4 +7,4 @@
 This is my github page, I post some scripts, most of it developed instead of listening to my lessons x)"
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIKKSS&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TRIKKSS&theme=solarized_dark"</p>
