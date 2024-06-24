@@ -3,7 +3,7 @@
 ```zsh
 [trikkss@manjaro ~]$ whoami
 
-"Hello, I'm TRIKKSS, a French high school student, who is bored of school and who prefer learn hacking.
+"Hello, I'm TRIKKSS, a French student, who is bored of school and who prefer learn hacking.
 This is my github page, I post some scripts, most of it developed instead of listening to my lessons x)"
 ```
 
